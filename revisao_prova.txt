@@ -1,6 +1,0 @@
-# Conteúdo para a prova de front-end
-
-Uma questão de código pronto
-Uma questão para criar o código 
-
-
