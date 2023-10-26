@@ -1,0 +1,49 @@
+body{
+    color: #a0522d;
+    background-color:azure
+}
+
+body{
+    text-align:center 
+
+}
+
+a:link {
+    color: red;
+  }
+  
+  a:visited {
+    color: black1;
+  }
+  
+
+  a:hover {
+    color: hotpink;
+  }
+  
+  a:active {
+    color: blue;
+  }
+
+  h1{
+    border-style: double
+  }
+
+  #p1{
+    color: black;
+
+  }
+
+  #p2{
+    color: gray
+  }
+
+p.direita{
+    text-align: right; 
+}
+p.esquerda{
+    text-align: left;
+}
+p.centro{
+    text-align: center;
+}
